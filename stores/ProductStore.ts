@@ -1,5 +1,4 @@
 import { makeAutoObservable, runInAction } from "mobx";
-import productsData from "../data/products.json";
 
 export interface Product {
   id: string;
@@ -20,19 +19,17 @@ class ProductStore {
 
   constructor() {
     makeAutoObservable(this);
-    this.loadProducts();
   }
 
-  loadProducts() {
+  initialize(products: Product[]) {
     this.isLoading = true;
-
     setTimeout(() => {
       runInAction(() => {
-        this.products = productsData;
+        this.products = products;
         this.filterProducts();
         this.isLoading = false;
       });
-    }, 500);
+    }, 300);
   }
 
   getProductById(id: string): Product | undefined {
