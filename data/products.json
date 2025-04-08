@@ -3,180 +3,175 @@
     "id": "1",
     "name": "iPhone 15 Pro",
     "price": 999,
-    "description": "The ultimate iPhone. With a revolutionary titanium design and the phenomenal power of Apple Intelligence.",
+    "description": "Ультимативный iPhone. С революционным титановым дизайном и феноменальной мощностью Apple Intelligence.",
     "images": [
       "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Smartphone",
+    "category": "Смартфоны",
     "features": [
-      "6.1-inch Super Retina XDR display",
-      "A17 Pro chip",
-      "Pro-grade camera system with 48MP Main",
-      "Titanium design with industry-leading durability"
+      "6.1-дюймовый дисплей Super Retina XDR",
+      "Чип A17 Pro",
+      "Про-система камеры с 48 МП основной камерой",
+      "Титановый дизайн с отраслевой долговечностью"
     ]
   },
   {
     "id": "2",
     "name": "MacBook Air M2",
     "price": 1199,
-    "description": "The world's best-selling laptop, now with the power and efficiency of the M2 chip.",
+    "description": "Лучший в мире продаваемый ноутбук, теперь с мощностью и эффективностью чипа M2.",
     "images": [
       "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Laptop",
+    "category": "Ноутбуки",
     "features": [
-      "13.6-inch Liquid Retina display",
-      "Apple M2 chip",
-      "Up to 18 hours of battery life",
-      "Fanless design for silent operation"
+      "13.6-дюймовый дисплей Liquid Retina",
+      "Чип Apple M2",
+      "До 18 часов работы от аккумулятора",
+      "Безвентиляторный дизайн для тихой работы"
     ]
   },
   {
     "id": "3",
     "name": "iPad Pro",
     "price": 799,
-    "description": "The ultimate iPad experience with the M2 chip, 12.9-inch Liquid Retina XDR display, and support for Apple Pencil.",
+    "description": "Лучший опыт использования iPad с чипом M2, 12.9-дюймовым дисплеем Liquid Retina XDR и поддержкой Apple Pencil.",
     "images": [
       "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1590658268037-7e12a5eb8468?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Tablet",
+    "category": "Планшеты",
     "features": [
-      "12.9-inch Liquid Retina XDR display",
-      "Apple M2 chip",
-      "All-day battery life",
-      "Support for Apple Pencil and Magic Keyboard"
+      "12.9-дюймовый дисплей Liquid Retina XDR",
+      "Чип Apple M2",
+      "Весь день работы от аккумулятора",
+      "Поддержка Apple Pencil и Magic Keyboard"
     ]
   },
   {
     "id": "4",
     "name": "Apple Watch Series 9",
     "price": 399,
-    "description": "The most powerful Apple Watch yet, with the S9 chip and health features like ECG and blood oxygen monitoring.",
+    "description": "Самые мощные Apple Watch, с чипом S9 и функциями здоровья, такими как ЭКГ и мониторинг кислорода в крови.",
     "images": [
       "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Wearable",
+    "category": "Носимые устройства",
     "features": [
-      "Always-On Retina display",
-      "ECG and blood oxygen apps",
-      "Water resistant 50 meters",
-      "S9 chip with 64-bit dual-core processor"
+      "Always-On Retina дисплей",
+      "Программы ЭКГ и мониторинга кислорода в крови",
+      "Водонепроницаемость до 50 метров",
+      "Чип S9 с 64-битным двухъядерным процессором"
     ]
   },
   {
     "id": "5",
     "name": "AirPods Pro",
     "price": 249,
-    "description": "Active Noise Cancellation, Transparency mode, and Spatial Audio for an immersive listening experience.",
+    "description": "Активное шумоподавление, режим прозрачности и пространственный звук для захватывающего прослушивания.",
     "images": [
       "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Audio",
+    "category": "Аудио",
     "features": [
-      "Active Noise Cancellation",
-      "Transparency mode",
-      "Spatial Audio with dynamic head tracking",
-      "Sweat and water resistant"
+      "Активное шумоподавление",
+      "Режим прозрачности",
+      "Пространственный звук с динамическим отслеживанием головы",
+      "Сопротивление воде и поту"
     ]
   },
   {
     "id": "6",
     "name": "iMac M1",
     "price": 1299,
-    "description": "Say hello to the new iMac. Inspired by the best of Apple, transformed by the M1 chip.",
+    "description": "Познакомьтесь с новым iMac. Вдохновлен лучшим от Apple, трансформирован чипом M1.",
     "images": [
       "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Desktop",
+    "category": "Настольные ПК",
     "features": [
-      "24-inch 4.5K Retina display",
-      "Apple M1 chip",
-      "1080p FaceTime HD camera",
-      "Six-speaker sound system"
+      "24-дюймовый 4.5K Retina дисплей",
+      "Чип Apple M1",
+      "1080p камера FaceTime HD",
+      "Шестиконечная акустическая система"
     ]
   },
   {
     "id": "7",
     "name": "Mac mini",
     "price": 699,
-    "description": "The M2 chip brings more speed to Mac mini. With up to 24GB of unified memory and 8TB of storage.",
+    "description": "Чип M2 приносит еще большую скорость в Mac mini. С до 24 ГБ унифицированной памяти и 8 ТБ хранилища.",
     "images": [
       "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1604764464945-5691409d1567?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Desktop",
+    "category": "Настольные ПК",
     "features": [
-      "Apple M2 chip",
-      "Up to 24GB of unified memory",
-      "Two Thunderbolt 4 ports",
-      "Wi-Fi 6E and Bluetooth 5.3"
+      "Чип Apple M2",
+      "До 24 ГБ унифицированной памяти",
+      "Два порта Thunderbolt 4",
+      "Wi-Fi 6E и Bluetooth 5.3"
     ]
   },
   {
     "id": "8",
     "name": "Studio Display",
     "price": 1599,
-    "description": "The Studio Display is a 27-inch 5K Retina display with an advanced camera and incredible high-fidelity sound.",
+    "description": "Studio Display — 27-дюймовый 5K Retina дисплей с улучшенной камерой и невероятным высококачественным звуком.",
     "images": [
-      "https://images.unsplash.com/photo-1527959002821-1ad6c705bdd3?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=1000&q=80",
       "https://images.unsplash.com/photo-1527959002821-1ad6c705bdd3?auto=format&fit=crop&w=1000&q=80"
     ],
-    "category": "Display",
+    "category": "Дисплеи",
     "features": [
-      "27-inch 5K Retina display",
-      "12MP Ultra Wide camera with Center Stage",
-      "Three-mic array with directional beamforming",
-      "Six-speaker sound system with Spatial Audio"
+      "27-дюймовый 5K Retina дисплей",
+      "12 МП ультраширокая камера с функцией Center Stage",
+      "Микрофонная система с направленным лучом",
+      "Шестиконечная акустическая система с пространственным звуком"
     ]
   },
   {
     "id": "9",
     "name": "HomePod mini",
     "price": 99,
-    "description": "Room-filling sound. An intelligent assistant. Features designed to keep your private life private.",
+    "description": "Звук, заполняющий комнату. Интеллектуальный помощник. Функции, разработанные для защиты вашей частной жизни.",
     "images": [
-      "https://images.unsplash.com/photo-1614111345869-1b53ea74fc4f?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1638623532917-c13ccaeb3a0c?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1614111345869-1b53ea74fc4f?auto=format&fit=crop&w=1000&q=80"
+      "https://images.unsplash.com/photo-1657559003754-013c87e4f3a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SG9tZVBvZCUyMG1pbml8ZW58MHx8MHx8fDA%3D"
     ],
-    "category": "Smart Home",
+    "category": "Аудио",
     "features": [
-      "Full-range driver and dual passive radiators",
-      "Four-microphone design",
-      "Multiroom audio with AirPlay",
-      "Intelligent assistant with Siri"
+      "Кристально чистый звук с 360-градусным звучанием",
+      "Подключение через Wi-Fi и Bluetooth",
+      "Интеграция с Apple Music",
+      "Поддержка Siri"
     ]
   },
   {
     "id": "10",
-    "name": "Apple TV 4K",
-    "price": 179,
-    "description": "Apple TV 4K brings the best of TV together with access to your favorite Apple services.",
+    "name": "AirPods",
+    "price": 129,
+    "description": "Наслаждайтесь качественным звуком с AirPods, которые подключаются мгновенно и обеспечивают до 24 часов работы.",
     "images": [
-      "https://images.unsplash.com/photo-1528148343865-51218fc6e425?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1626379953822-baec19c3accd?auto=format&fit=crop&w=1000&q=80",
-      "https://images.unsplash.com/photo-1528148343865-51218fc6e425?auto=format&fit=crop&w=1000&q=80"
+      "https://images.unsplash.com/photo-1588940086836-36c7d89611a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwbGUlMjBhaXJwb2RzfGVufDB8fDB8fHww"
     ],
-    "category": "Entertainment",
+    "category": "Аудио",
     "features": [
-      "4K High Frame Rate HDR",
-      "A15 Bionic chip",
-      "Dolby Atmos sound",
-      "Siri Remote with touch-enabled clickpad"
+      "Качество звука уровня Apple",
+      "До 24 часов работы с зарядным кейсом",
+      "Мгновенное подключение через Bluetooth",
+      "Интеграция с Siri"
     ]
   }
 ]
